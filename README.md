@@ -1,6 +1,7 @@
 # Soul-Viva Soap — Luxury Skincare D2C Showcase
 
-> **Live Preview (Vercel):** [https://soul-viva-soap-demo.vercel.app](https://soul-viva-soap-demo.vercel.app)  
+> **Live Production Storefront:** [https://www.soulviva.in](https://www.soulviva.in)  
+> **Vercel Mirror:** [https://soul-vita-besw.vercel.app](https://soul-vita-besw.vercel.app)  
 > **Client:** Soul-Viva Skincare  
 > **Tech Stack:** Next.js, GSAP, Framer Motion, Tailwind CSS
 
@@ -18,9 +19,10 @@ Soul-Viva Soap is a digital showcase for a premium line of transparent glycerin 
 
 ---
 
-## 🔗 Reviewing the Live Showcase
-Visit the live Vercel deployment:  
-👉 **[https://soul-viva-soap-demo.vercel.app](https://soul-viva-soap-demo.vercel.app)**
+## 🔗 Live Application Link
+Visit the live production storefront:  
+👉 **[https://www.soulviva.in](https://www.soulviva.in)**  
+👉 Vercel Mirror: **[https://soul-vita-besw.vercel.app](https://soul-vita-besw.vercel.app)**
 
 ---
 
